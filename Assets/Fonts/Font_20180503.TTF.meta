@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 81a17320a2eac924aab1e6aa07a5f0ed
+timeCreated: 1525238929
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FZXiShanHu-M13S
+  fontNames:
+  - FZXiShanHu-M13S
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
